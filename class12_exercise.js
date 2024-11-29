@@ -209,4 +209,10 @@ function StartApp() {
   }
   
   StartApp();
+
+  /* Reviewed by Alyssa
+Easy to understand and follow
+Clear notes and planning
+Helped with making sure there were no bugs in the code
+  */
   
